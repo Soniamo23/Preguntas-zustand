@@ -1,0 +1,15 @@
+## ¿Cuál es una característica clave de Zustand que lo diferencia de otras bibliotecas de gestión de estado?
+a) Su integración con Vue.js
+b) Su enfoque en la inmutabilidad del estado
+c) Su capacidad para permitir mutaciones directas del estado
+## Respuesta: c) Su capacidad para permitir mutaciones directas del estado
+## ¿Qué aspecto de la integración de Zustand con React lo hace particularmente atractivo para los desarrolladores?
+a) Su dependencia de clases de componentes
+b) Su uso de Redux como middleware
+c) Su integración a través de hooks
+## Respuesta: c) Su integración a través de hooks
+## ¿Cuál es uno de los beneficios de la arquitectura mutable de Zustand?
+a) Mayor complejidad en el código
+b) Reducción de la carga cognitiva del equipo de desarrollo
+c) Necesidad de envolver componentes en proveedores
+## Respuesta: b) Reducción de la carga cognitiva del equipo de desarrollo
